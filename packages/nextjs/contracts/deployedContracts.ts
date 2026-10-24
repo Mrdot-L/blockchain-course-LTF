@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   60600: {
     Escrow: {
-      address: "0xBc99044EB9204d8f2b8c0b890bca5E18c0dBD3eC",
+      address: "0x590709A164Cea83bD007505901b9e3f0A92C66A7",
       abi: [
         {
           inputs: [
@@ -333,7 +333,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 2670054,
+      deployedOnBlock: 2673020,
     },
     LTFToken: {
       address: "0x0d57c5a19E4214C49d206fCb3b58A65E2c985fC7",
